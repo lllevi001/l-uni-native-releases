@@ -16,6 +16,24 @@
       "size": 75542,
       "sha256": "1b9acc10bce0ec5bfd67941a140beaf864e90176bab7707426ff6cd4966a6c12",
       "notes": "uniapp-android 0.1.0"
+    },
+    {
+      "kind": "plugin",
+      "id": "l-attachment-kit",
+      "version": "0.4.1",
+      "requires": {
+        "tool": ">=0.3.0 <1.0.0",
+        "protocol": 1,
+        "host": {
+          "id": "uniapp-android",
+          "version": ">=0.1.0 <1.0.0"
+        }
+      },
+      "sourceCommit": "1a0d79739a125a4369e873dd4e8bff0942ff4de6",
+      "url": "https://github.com/lllevi001/l-uni-native-releases/releases/download/plugin-l-attachment-kit-v0.4.1/plugin-l-attachment-kit-0.4.1.zip",
+      "size": 126556,
+      "sha256": "c0b5ba2a717f1d0e19db3b78ef785dba05f2781235bdbff134d1ab53838046af",
+      "notes": "l-attachment-kit 0.4.1"
     }
   ]
 }
