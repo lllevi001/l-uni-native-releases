@@ -34,6 +34,20 @@
       "size": 126556,
       "sha256": "c0b5ba2a717f1d0e19db3b78ef785dba05f2781235bdbff134d1ab53838046af",
       "notes": "l-attachment-kit 0.4.1"
+    },
+    {
+      "kind": "tool",
+      "id": "l-uni-packager",
+      "version": "0.3.0",
+      "requires": {
+        "tool": "*",
+        "protocol": 1
+      },
+      "sourceCommit": "b9e6d0d6e8fbcc8635f71dec9a77450377c0d537",
+      "url": "https://github.com/lllevi001/l-uni-native-releases/releases/download/v0.3.0/l-uni-packager_0.3.0_x64-setup.exe",
+      "size": 356310238,
+      "sha256": "bd1428c8ab8f4aafe9b08e868db9269076383cd2a369aff3b6be7a63d508d661",
+      "notes": "工具、Android 宿主与插件独立更新。新增构建组件管理、项目版本锁定、下载校验与进度；支持首次安装及旧版升级，内置 DCloud SDK，按需准备构建依赖。"
     }
   ]
 }
