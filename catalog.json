@@ -18,6 +18,22 @@
       "notes": "uniapp-android 0.1.0"
     },
     {
+      "kind": "host",
+      "id": "uniapp-android",
+      "version": "0.1.1",
+      "requires": {
+        "tool": ">=0.3.0 <1.0.0",
+        "protocol": 1,
+        "dcloud": "5.34.82692_20261030",
+        "hbuilderx": "5.34.2026102909"
+      },
+      "sourceCommit": "702b6ffeebf6f030f2381ea71b765b8230565257",
+      "url": "https://github.com/lllevi001/l-uni-native-releases/releases/download/host-uniapp-android-v0.1.1/host-uniapp-android-0.1.1.zip",
+      "size": 75822,
+      "sha256": "7e4278582ea5796261aee61a59abbd935ee03d8e036a44280a8d82d60f85c7ce",
+      "notes": "uniapp-android 0.1.1"
+    },
+    {
       "kind": "plugin",
       "id": "l-attachment-kit",
       "version": "0.4.1",
