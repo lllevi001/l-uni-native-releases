@@ -64,6 +64,20 @@
       "size": 356310238,
       "sha256": "bd1428c8ab8f4aafe9b08e868db9269076383cd2a369aff3b6be7a63d508d661",
       "notes": "工具、Android 宿主与插件独立更新。新增构建组件管理、项目版本锁定、下载校验与进度；支持首次安装及旧版升级，内置 DCloud SDK，按需准备构建依赖。"
+    },
+    {
+      "kind": "tool",
+      "id": "l-uni-packager",
+      "version": "0.3.1",
+      "requires": {
+        "tool": "*",
+        "protocol": 1
+      },
+      "sourceCommit": "702b6ffeebf6f030f2381ea71b765b8230565257",
+      "url": "https://github.com/lllevi001/l-uni-native-releases/releases/download/v0.3.1/l-uni-packager_0.3.1_x64-setup.exe",
+      "size": 356312325,
+      "sha256": "f46da0a800ffca81eeb619eaf652cc51ffdd5bd7dd50dc8737616e04caac1e41",
+      "notes": "工具、Android 宿主与插件独立更新。新增构建组件管理、项目版本锁定、下载校验与进度；支持首次安装及旧版升级，内置 DCloud SDK，按需准备构建依赖。"
     }
   ]
 }
